@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **Senior PHP Developer** specializing in backend architecture, legacy refactoring, and high-performance web applications.
+I'm a **PHP Developer** specializing in backend architecture, legacy refactoring, and high-performance web applications.
 
 ---
 
